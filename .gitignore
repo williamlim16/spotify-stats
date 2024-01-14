@@ -1,3 +1,4 @@
 .vscode/
 logs/
 .env
+dags/__pycache__/
